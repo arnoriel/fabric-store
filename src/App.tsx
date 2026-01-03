@@ -252,7 +252,6 @@ const Home = () => {
           <div className="grid md:grid-cols-4 gap-12 mb-16">
             <div className="col-span-1 md:col-span-2">
               <div className="flex items-center gap-3 mb-6">
-                <img src="/assets/icon.png" alt="Logo" className="w-8 h-8 grayscale opacity-70" />
                 <span className="text-2xl font-serif font-bold text-white tracking-wider">IRUKA FABRIC</span>
               </div>
               <p className="max-w-sm text-sm leading-relaxed font-light">
