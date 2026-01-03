@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Batik Tulis Primisima Solo",
+    "category": "Batik",
+    "price": "Rp 850.000/pc",
+    "image": "https://engrasia.com/cdn/shop/products/IMG_03282.heic?v=1674027952&width=3024",
+    "description": "Batik tulis handmade menggunakan katun primisima dengan motif klasik khas Solo.",
+    "colors": ["Sogan", "Hitam", "Indigo"],
+    "origin": "Solo, Indonesia"
+  },
+  {
+    "id": 2,
+    "name": "Batik Cap Pekalongan",
+    "category": "Batik",
+    "price": "Rp 120.000/m",
+    "image": "https://media.karousell.com/media/photos/products/2017/06/04/batik_cap_pekalongan_motif_kupu_original_1496550887_cb5f92f9.jpg",
+    "description": "Batik cap dengan motif pesisir warna cerah, cocok untuk busana harian.",
+    "colors": ["Merah", "Biru", "Coklat"],
+    "origin": "Pekalongan"
+  },
+  {
+    "id": 3,
+    "name": "Katun Toyobo Premium",
+    "category": "Cotton",
+    "price": "Rp 45.000/m",
+    "image": "https://mitramulia.com/kcfinder/upload/files/Busana%20Muslim/Toyobo%203.png",
+    "description": "Katun Jepang dengan tenunan rapat, adem, tidak menerawang.",
+    "colors": ["Putih", "Sage", "Dusty Blue"],
+    "origin": "Japan"
+  },
+  {
+    "id": 4,
+    "name": "Katun Poplin Halus",
+    "category": "Cotton",
+    "price": "Rp 38.000/m",
+    "image": "https://id.yutaitextiles.com/uploads/202235354/100-cotton-poplin-fabric13437661654.jpg",
+    "description": "Katun poplin ringan dengan permukaan halus, cocok untuk kemeja.",
+    "colors": ["Putih", "Abu Muda"],
+    "origin": "Lokal"
+  },
+  {
+    "id": 5,
+    "name": "Linen Slub Premium",
+    "category": "Linen",
+    "price": "Rp 65.000/m",
+    "image": "https://image.made-in-china.com/365f3j00veTaiCBIhhkl/Kain-Linen-Slub-Poliester-Premium-untuk-Pelapisan-Sofa-Bergaya.webp",
+    "description": "Linen natural dengan tekstur slub khas, breathable dan elegan.",
+    "colors": ["Beige", "Olive"],
+    "origin": "Lokal"
+  },
+  {
+    "id": 6,
+    "name": "Linen Import Korea",
+    "category": "Linen",
+    "price": "Rp 95.000/m",
+    "image": "https://img.lazcdn.com/g/ff/kf/S4318ddda44ec476f95db78fb037312e5y.jpg_720x720q80.jpg",
+    "description": "Linen premium dengan serat halus dan jatuh rapi.",
+    "colors": ["Broken White", "Grey"],
+    "origin": "Korea"
+  },
+  {
+    "id": 7,
+    "name": "Sutra Satin Premium",
+    "category": "Silk",
+    "price": "Rp 125.000/m",
+    "image": "https://down-id.img.susercontent.com/file/4bd1d3051826f869db3bc3367cab2fc2",
+    "description": "Sutra satin berkilau halus, mewah dan flowy.",
+    "colors": ["Champagne", "Emerald"],
+    "origin": "China"
+  },
+  {
+    "id": 8,
+    "name": "Sutra Organza",
+    "category": "Silk",
+    "price": "Rp 55.000/m",
+    "image": "https://bsg-i.nbxc.com/product/8f/5c/d9/bcb6b3f87da6e1d1333a10054c.jpg",
+    "description": "Organza tipis transparan dengan struktur kaku.",
+    "colors": ["White", "Lilac"],
+    "origin": "Korea"
+  },
+  {
+    "id": 9,
+    "name": "Rayon Viscose Polos",
+    "category": "Rayon",
+    "price": "Rp 32.000/m",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjn6gvUv_5ZMiVDcPEJzQD8uMn2He5_3DExg&s",
+    "description": "Rayon dingin dan jatuh, cocok untuk dress & daster.",
+    "colors": ["Navy", "Maroon"],
+    "origin": "Indonesia"
+  },
+  {
+    "id": 10,
+    "name": "Rayon Print Floral",
+    "category": "Rayon",
+    "price": "Rp 38.000/m",
+    "image": "https://fabcurate.com/cdn/shop/products/31001603-A.jpg?v=1617708641&width=1445",
+    "description": "Rayon bermotif bunga dengan warna tajam.",
+    "colors": ["Floral Blue", "Floral Brown"],
+    "origin": "Indonesia"
+  },
+  {
+    "id": 11,
+    "name": "Denim Jeans 12oz",
+    "category": "Denim",
+    "price": "Rp 75.000/m",
+    "image": "https://www.zevadenim.com/wp-content/uploads/2023/08/12oz-denim-fabric.webp",
+    "description": "Denim tebal standar jeans premium.",
+    "colors": ["Indigo", "Black"],
+    "origin": "Lokal"
+  },
+  {
+    "id": 12,
+    "name": "Denim Soft Washed",
+    "category": "Denim",
+    "price": "Rp 85.000/m",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp8JautkrqGcyZ3IK4ixtIX7_mLz4iBmicjw&s",
+    "description": "Denim hasil washed, lebih lembut dan nyaman.",
+    "colors": ["Light Blue", "Stone Wash"],
+    "origin": "Lokal"
+  },
+  {
+    "id": 13,
+    "name": "Tulle Bordir Premium",
+    "category": "Brocade",
+    "price": "Rp 185.000/m",
+    "image": "https://img.lazcdn.com/g/ff/kf/S3a20fce276bf45bcbd7d2e38d121b5f2w.jpg_720x720q80.jpg",
+    "description": "Tulle dengan bordir mewah untuk kebaya & gaun pesta.",
+    "colors": ["Gold", "Silver"],
+    "origin": "Indonesia"
+  },
+  {
+    "id": 14,
+    "name": "Brokat Prancis",
+    "category": "Brocade",
+    "price": "Rp 250.000/m",
+    "image": "https://i.pinimg.com/736x/29/4c/56/294c560fc2717c0dc54319a50e3cca8e.jpg",
+    "description": "Brokat detail rapat dengan motif klasik Eropa.",
+    "colors": ["Nude", "Dusty Pink"],
+    "origin": "France"
+  },
+  {
+    "id": 15,
+    "name": "Wool Peach (Wolfis)",
+    "category": "Synthetics",
+    "price": "Rp 30.000/m",
+    "image": "https://img.lazcdn.com/collect/social-img/412aede0cc414c3b99da7be1e51eb014_08c079ba0416482cae1d07c658f800b5.png_720x720q80.png",
+    "description": "Wolfis ringan, tidak nerawang, favorit hijab.",
+    "colors": ["Hitam", "Mocca"],
+    "origin": "Indonesia"
+  },
+  {
+    "id": 16,
+    "name": "Chiffon Ceruty Babydoll",
+    "category": "Synthetics",
+    "price": "Rp 42.000/m",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxzz9Tp-NInOBx3qSakO-J02abf0CnGTgk0g&s",
+    "description": "Chiffon halus dengan efek flowy lembut.",
+    "colors": ["Dusty Pink", "Sage"],
+    "origin": "Indonesia"
+  },
+  {
+    "id": 17,
+    "name": "Jacquard Emboss",
+    "category": "Jacquard",
+    "price": "Rp 95.000/m",
+    "image": "https://bunny-wp-pullzone-skqqsftbkd.b-cdn.net/wp-content/uploads/2013/07/Jacquard-wrinkle-emboss.jpg",
+    "description": "Jacquard dengan motif timbul eksklusif.",
+    "colors": ["Royal Blue", "Gold"],
+    "origin": "Indonesia"
+  },
+  {
+    "id": 18,
+    "name": "Tenun Troso Jepara",
+    "category": "Tenun",
+    "price": "Rp 180.000/pc",
+    "image": "https://img.lazcdn.com/g/p/c1f4ca8c8babed614a36361cb0770a42.jpg_960x960q80.jpg_.webp",
+    "description": "Tenun ikat tradisional motif etnik Nusantara.",
+    "colors": ["Merah Etnik", "Hitam"],
+    "origin": "Jepara"
+  },
+  {
+    "id": 19,
+    "name": "Canvas Marsoto",
+    "category": "Cotton",
+    "price": "Rp 55.000/m",
+    "image": "https://dglstorage.com/files/supertex/product-images/68fb0f19236129e3ecd06298",
+    "description": "Kanvas tebal kuat untuk tas dan interior.",
+    "colors": ["Army", "Broken White"],
+    "origin": "Lokal"
+  },
+  {
+    "id": 20,
+    "name": "Semi Wool Premium",
+    "category": "Wool",
+    "price": "Rp 110.000/m",
+    "image": "https://tamamst.co.id/wp-content/uploads/2024/07/81.jpg",
+    "description": "Semi wool tidak gatal, jatuh rapi untuk jas.",
+    "colors": ["Charcoal", "Dark Brown"],
+    "origin": "Lokal"
+  }
+]
